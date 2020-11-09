@@ -1,0 +1,1 @@
+# Spotify-Auth-Client-Credentials
