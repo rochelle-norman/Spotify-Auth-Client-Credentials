@@ -1,5 +1,5 @@
 # Spotify OAuth backend Client Credentials flow
-This is a Node.js Express application that utilizes the Spotify OAuth client credentials flow API, to generate an access token for use in your front end application.
+This is a Node.js Express server example that utilizes the Spotify OAuth client credentials flow API, to generate an access token for use in your front end application.
 This OAuth flow allows limited access and only allows you to get public data. If you need logins in your app you will need a different authorisation.
 You can find more information about Spotify authorisation here https://developer.spotify.com/documentation/general/guides/authorization-guide/
 ### Register Spotify App to gain credentials, then use them to login via this application
