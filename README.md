@@ -16,4 +16,4 @@ export SPOTIFY_CLIENT_ID=your-client-id
 export SPOTIFY_CLIENT_SECRET=your-client-secret
 
 
-Run your server using npm run server or whatever you have called your server. Then run curl http://localhost:3002/callback in your terminal and you should see your token being returned. You can then use this in your front end application to fetch data from the Spotify API.
+Run your server using npm run server or whatever you have called your server. Then run curl http://localhost:3002/callback in your terminal and you should see your token being returned. You can then pass this to your front end application to fetch data from the Spotify API.
