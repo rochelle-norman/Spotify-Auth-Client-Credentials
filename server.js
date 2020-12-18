@@ -38,7 +38,7 @@ async function authoriseSpotify() {
         await response.json()
     )}
 
-app.get('/callback', async (req, res) => {
+app.get('api/callback', async (req, res) => {
   
     const tokens = await authoriseSpotify()
 
